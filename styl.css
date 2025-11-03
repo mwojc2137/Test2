@@ -1,0 +1,13 @@
+#tytul{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+#pole1,#pole2{
+    background-color: blue;
+}
+#submit,#reset{
+    background-color: orange;
+}
+#submit{
+    margin-right:1cm ;
+}
