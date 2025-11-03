@@ -35,3 +35,36 @@ h1[class="imagestitle"] {
     background-color: black;
     margin-bottom: 1cm;
 }
+
+div[class="mw-menu"] {
+    text-align: center;
+
+}
+
+h1[class="mw-title"] {
+    text-align: center;
+    color: green;
+
+}
+
+p[class="mw-text"] {
+    width: 100%;
+    font-style: italic;
+    text-align: justify;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+div[class="mw-columns"] {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .mw-columns {
+        flex-direction: column;
+    }
+}
+
+.mw-sources a:hover {
+    background-color: blue;
+}
