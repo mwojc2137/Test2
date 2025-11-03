@@ -2,6 +2,7 @@
     text-align: center;
     margin-bottom: 1cm;
 }
+
 #pole1,#pole2{
     background-color: blue;
 }
@@ -10,4 +11,12 @@
 }
 #submit{
     margin-right:1cm ;
+}
+#divlista1{
+    font-weight: bold;
+    border: 1px black solid;
+    float: left;
+}
+#divlista2{
+    clear: both;
 }
