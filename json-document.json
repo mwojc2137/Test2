@@ -1,0 +1,20 @@
+{
+    "vr": {
+        "opis": "Całkowite zanurzenie w cyfrowym świecie, odcięcie od rzeczywistości fizycznej.",
+        "rok": 1968,
+        "reliable": true,
+        "zastosowanie": ["rozrywka", "symulacje", "terapia", "edukacja medyczna"]
+    },
+    "ar": {
+        "opis": "Nakładanie cyfrowych elementów na rzeczywisty świat w czasie rzeczywistym.",
+        "rok": 1992,
+        "reliable": true,
+        "zastosowanie": ["gry mobilne", "marketing", "nawigacja", "serwis techniczny"]
+    },
+    "mr": {
+        "opis": "Integracja i interakcja obiektów cyfrowych z fizycznym światem.",
+        "rok": 2015,
+        "reliable": true,
+        "zastosowanie": ["projektowanie 3D", "architektura", "edukacja", "medycyna"]
+    }
+}

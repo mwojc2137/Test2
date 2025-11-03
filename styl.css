@@ -1,0 +1,18 @@
+.ay-data-h1 {
+    text-align: center;
+    margin-bottom: 1cm; 
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: 2px solid gray;
+    color: white;
+    background-color: black;
+}
+
+td {
+    border: 2px solid gray;
+}

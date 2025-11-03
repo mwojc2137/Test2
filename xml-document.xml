@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologies>
+    <vr type="virtual-reality">
+        <opis>
+            Całkowite zanurzenie w cyfrowym świecie, odcięcie od rzeczywistości fizycznej.	
+        </opis>
+        <przyklad>
+            Gry VR, symulatory lotu	
+        </przyklad>
+        <technologie_i_urzadzenia>
+            Gogle VR (np. Meta Quest, HTC Vive), kontrolery ruchu
+        </technologie_i_urzadzenia>
+        <zastosowania>
+            Rozrywka, szkolenia wojskowe, terapia fobii, edukacja medyczna
+        </zastosowania>
+    </vr>
+    <ar type="augmented-reality">
+        <opis>
+            Nakładanie cyfrowych elementów na rzeczywisty świat.	
+        </opis>
+        <przyklad>
+            Pokémon GO, filtry Snapchata	
+        </przyklad>
+        <technologie_i_urzadzenia>
+            Smartfony, tablety, okulary AR (Magic Leap)	
+        </technologie_i_urzadzenia>
+        <zastosowania>
+            Marketing, gry mobilne, nawigacja, przemysł (np. serwis maszyn)
+        </zastosowania>
+    </ar>
+    <mr type="mixed-reality">
+        <opis>
+            Interakcja między obiektami cyfrowymi i fizycznymi w czasie rzeczywistym.	
+        </opis>
+        <przyklad>
+            Okulary HoloLens, aplikacje edukacyjne 3D	
+        </przyklad>
+        <technologie_i_urzadzenia>
+            Microsoft HoloLens, okulary MR, czujniki przestrzenne	
+        </technologie_i_urzadzenia>
+        <zastosowania>
+            Edukacja, projektowanie 3D, medycyna, architektura
+        </zastosowania>
+    </mr>
+</technologies>
